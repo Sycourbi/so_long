@@ -12,6 +12,19 @@ Bienvenue sur le dépôt du projet So Long de l'École 42. Ce projet consiste à
   <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png?raw=true" alt="Badge du projet so_long">
 </div>
 
+## Commandes du Jeu
+
+  - Utilisez les touches fléchées pour déplacer le joueur.
+  - Collectez tous les objets (C) pour ouvrir la porte de sortie (E).
+  - Évitez les obstacles (1) et les ennemis.
+  - Terminez le niveau en atteignant la porte de sortie pour gagner.
+    
+## Fonctionnalités
+
+  - Graphismes simples utilisant MinilibX.
+  - Lecture et gestion des cartes à partir de fichiers.
+  - Gestion des événements utilisateur pour le déplacement du joueur et la gestion des collisions.
+
 ## Installation
 
 Pour installer le projet So Long, suivez ces étapes :
