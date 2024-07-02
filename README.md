@@ -22,3 +22,8 @@ Pour installer le projet So Long, suivez ces étapes :
    git clone https://github.com/Sycourbi/so_long.git
    cd so_long
    make
+2. Lancer le programme :
+
+  ```bash
+  ./so_long maps/map.ber
+
