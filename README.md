@@ -6,6 +6,8 @@
 ![Video Game](https://img.shields.io/badge/game-yes-orange)
 ![Graphics](https://img.shields.io/badge/graphics-yes-yellow)
 ![Gameplay Mechanics](https://img.shields.io/badge/gameplay%20mechanics-Movement%20%7C%20Collisions-yellowgreen)
+![42](https://img.shields.io/badge/school-42-green)
+![42 Paris](https://img.shields.io/badge/42-Paris-blue)
 
 ## Description
 
