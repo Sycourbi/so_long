@@ -1,5 +1,12 @@
 # So Long
 
+![C Language](https://img.shields.io/badge/language-C-blue)
+![MiniLibX](https://img.shields.io/badge/library-MiniLibX-blue)
+![2D Graphics](https://img.shields.io/badge/graphics-2D-lightgrey)
+![Video Game](https://img.shields.io/badge/game-yes-orange)
+![Graphics](https://img.shields.io/badge/graphics-yes-yellow)
+![Gameplay Mechanics](https://img.shields.io/badge/gameplay%20mechanics-Movement%20%7C%20Collisions-yellowgreen)
+
 ## Description
 
 Bienvenue sur le dépôt du projet So Long de l'École 42. Ce projet consiste à créer un jeu vidéo simple en utilisant la bibliothèque graphique MinilibX. Le joueur doit naviguer à travers un labyrinthe, collecter des objets et atteindre la sortie tout en évitant les obstacles.
